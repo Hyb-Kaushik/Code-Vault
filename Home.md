@@ -30,3 +30,7 @@
 
 ### [[Add ShortCut in frappe]]
 
+### [[Code To Stock and Accounting Ledger Entry]]
+
+
+
