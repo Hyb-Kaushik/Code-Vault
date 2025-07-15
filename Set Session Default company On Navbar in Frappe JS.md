@@ -27,4 +27,4 @@ $(document).ready(function () {
 
 ---
 
->  Write this in public/js folder and import it to hooks in assets
+>  Write this in public/js folder and import it to hooks in assets.
